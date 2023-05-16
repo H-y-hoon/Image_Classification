@@ -1,4 +1,6 @@
-# Keras_Mnist
+Keras_Mnist
+===========
+Image classification using CNN
+
 - This is for school assignment.
-- Image classification using CNN.
 - result => B+
